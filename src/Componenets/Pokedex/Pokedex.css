@@ -1,0 +1,12 @@
+.pokedex-wrapper{
+    display: flex;
+    flex-direction: column;
+}
+
+/* a:visited{
+    color: white;
+} */
+
+a{
+    text-decoration: none;
+}
